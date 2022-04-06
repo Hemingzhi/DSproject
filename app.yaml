@@ -4,4 +4,4 @@ threadsafe: true
 
 handlers:
 - url: /
-  script: home.app
+  script: dsproject.py
